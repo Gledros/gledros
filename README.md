@@ -14,4 +14,4 @@
 
 <br />
 
-<a href="https://app.daily.dev/gledros"><img src="./devcard.png" width="356" alt="Glenn's Dev Card"/></a>
+<!--a href="https://app.daily.dev/gledros"><img src="./devcard.png" width="356" alt="Glenn's Dev Card"/></a-->
